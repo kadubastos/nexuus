@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="468" rx="150" ry="20" fill="#E2DDD3"/>
+  <rect x="200" y="195" width="160" height="190" rx="22" fill="#FFFFFF" stroke="#D6D0C4" stroke-width="4"/>
+  <rect x="155" y="255" width="45" height="22" rx="6" fill="#A8A29E"/>
+  <rect x="155" y="295" width="45" height="22" rx="6" fill="#A8A29E"/>
+  <rect x="240" y="232" width="80" height="28" rx="6" fill="#1A1614"/>
+  <rect x="256" y="242" width="48" height="8" rx="3" fill="#F97316"/>
+  <text x="280" y="318" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#0F3D2E">20W</text>
+  <text x="280" y="346" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="600" fill="#78716C">TURBO USB-C</text>
+  <path d="M360 330C425 330 435 230 390 190C360 165 360 135 405 135C445 135 455 180 455 260C455 360 415 415 340 415" stroke="#1A1614" stroke-width="14" stroke-linecap="round"/>
+  <rect x="315" y="401" width="38" height="28" rx="6" fill="#C59B27"/>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · CARREGADOR TURBO</text>
+</svg>

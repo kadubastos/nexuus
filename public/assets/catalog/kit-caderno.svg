@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="465" rx="150" ry="20" fill="#E2DDD3"/>
+  <rect x="195" y="155" width="210" height="275" rx="14" fill="#0F3D2E"/>
+  <rect x="210" y="155" width="195" height="275" rx="12" fill="#E11D74"/>
+  <rect x="235" y="195" width="140" height="80" rx="8" fill="#FFFFFF"/>
+  <text x="305" y="232" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1614">200 FOLHAS</text>
+  <text x="305" y="256" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#78716C">10 MATÉRIAS</text>
+  <rect x="175" y="180" width="28" height="14" rx="7" fill="#A8A29E"/>
+  <rect x="175" y="220" width="28" height="14" rx="7" fill="#A8A29E"/>
+  <rect x="175" y="260" width="28" height="14" rx="7" fill="#A8A29E"/>
+  <rect x="175" y="300" width="28" height="14" rx="7" fill="#A8A29E"/>
+  <rect x="175" y="340" width="28" height="14" rx="7" fill="#A8A29E"/>
+  <rect x="175" y="380" width="28" height="14" rx="7" fill="#A8A29E"/>
+  <rect x="425" y="210" width="16" height="205" rx="8" fill="#F97316"/>
+  <polygon points="425,210 441,210 433,184" fill="#1A1614"/>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · KIT CADERNO + CANETAS</text>
+</svg>

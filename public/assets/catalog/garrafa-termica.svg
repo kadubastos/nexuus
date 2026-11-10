@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="468" rx="100" ry="18" fill="#E2DDD3"/>
+  <rect x="240" y="135" width="120" height="44" rx="10" fill="#1A1614"/>
+  <rect x="255" y="112" width="90" height="25" rx="8" fill="#C59B27"/>
+  <path d="M235 179H365L378 235V425C378 441.569 364.569 455 348 455H252C235.431 455 222 441.569 222 425V235L235 179Z" fill="#B91C1C"/>
+  <rect x="246" y="255" width="108" height="145" rx="10" fill="#FAF9F7" fill-opacity="0.16"/>
+  <text x="300" y="336" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">INOX 500ml</text>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · GARRAFA TÉRMICA</text>
+</svg>

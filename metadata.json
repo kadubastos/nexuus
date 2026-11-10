@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Papelaria e Armarinho",
+  "description": "Catálogo Digital de Fim de Ano — Ofertas de Black Friday e Especial de Natal com retirada na loja e pedido via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

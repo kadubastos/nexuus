@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="465" rx="150" ry="20" fill="#E2DDD3"/>
+  <rect x="180" y="185" width="70" height="160" rx="12" fill="#E11D74"/>
+  <rect x="170" y="175" width="90" height="22" rx="6" fill="#C59B27"/>
+  <rect x="170" y="335" width="90" height="22" rx="6" fill="#C59B27"/>
+  <rect x="265" y="185" width="70" height="160" rx="12" fill="#0F3D2E"/>
+  <rect x="255" y="175" width="90" height="22" rx="6" fill="#C59B27"/>
+  <rect x="255" y="335" width="90" height="22" rx="6" fill="#C59B27"/>
+  <rect x="350" y="185" width="70" height="160" rx="12" fill="#F97316"/>
+  <rect x="340" y="175" width="90" height="22" rx="6" fill="#C59B27"/>
+  <rect x="340" y="335" width="90" height="22" rx="6" fill="#C59B27"/>
+  <circle cx="240" cy="410" r="24" fill="#FFFFFF" stroke="#B91C1C" stroke-width="5"/>
+  <circle cx="240" cy="410" r="5" fill="#B91C1C"/>
+  <circle cx="315" cy="410" r="24" fill="#FFFFFF" stroke="#C59B27" stroke-width="5"/>
+  <circle cx="315" cy="410" r="5" fill="#C59B27"/>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · ARMARINHO E FITAS</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="465" rx="145" ry="22" fill="#E2DDD3"/>
+  <rect x="195" y="165" width="210" height="270" rx="28" fill="#0F3D2E"/>
+  <rect x="215" y="185" width="170" height="170" rx="18" fill="#16523E"/>
+  <circle cx="300" cy="270" r="62" fill="#0A291F" stroke="#C59B27" stroke-width="5"/>
+  <circle cx="300" cy="270" r="34" fill="#1A1614"/>
+  <circle cx="300" cy="270" r="12" fill="#C59B27"/>
+  <rect x="242" y="382" width="116" height="22" rx="11" fill="#0A291F"/>
+  <circle cx="268" cy="393" r="5" fill="#FAF9F7"/>
+  <circle cx="300" cy="393" r="5" fill="#E11D74"/>
+  <circle cx="332" cy="393" r="5" fill="#FAF9F7"/>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · CAIXA DE SOM BLUETOOTH</text>
+</svg>

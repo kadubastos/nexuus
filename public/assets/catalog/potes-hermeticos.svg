@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="465" rx="170" ry="22" fill="#E2DDD3"/>
+  <rect x="165" y="325" width="270" height="125" rx="18" fill="#FFFFFF" fill-opacity="0.85" stroke="#D6D0C4" stroke-width="4"/>
+  <rect x="155" y="310" width="290" height="24" rx="8" fill="#0F3D2E"/>
+  <rect x="195" y="220" width="210" height="90" rx="14" fill="#FFFFFF" fill-opacity="0.9" stroke="#D6D0C4" stroke-width="4"/>
+  <rect x="187" y="205" width="226" height="22" rx="7" fill="#0F3D2E"/>
+  <rect x="230" y="135" width="140" height="70" rx="12" fill="#FFFFFF" fill-opacity="0.95" stroke="#D6D0C4" stroke-width="4"/>
+  <rect x="223" y="122" width="154" height="20" rx="6" fill="#0F3D2E"/>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · KIT POTES HERMÉTICOS</text>
+</svg>

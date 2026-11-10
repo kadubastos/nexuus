@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#F3F1EC"/>
+  <ellipse cx="300" cy="465" rx="145" ry="20" fill="#E2DDD3"/>
+  <path d="M375 265H412C434.091 265 452 282.909 452 305V355C452 377.091 434.091 395 412 395H375" stroke="#B91C1C" stroke-width="20" stroke-linecap="round"/>
+  <rect x="200" y="220" width="180" height="225" rx="20" fill="#FFFFFF" stroke="#D6D0C4" stroke-width="4"/>
+  <rect x="200" y="220" width="180" height="44" rx="14" fill="#B91C1C"/>
+  <circle cx="290" cy="340" r="46" fill="#FAF9F7" stroke="#C59B27" stroke-width="4"/>
+  <path d="M290 306L300 330H325L305 344L312 368L290 354L268 368L275 344L255 330H280L290 306Z" fill="#C59B27"/>
+  <text x="300" y="520" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#78716C">FOTO ILUSTRATIVA · CANECA FESTIVA PORCELANA</text>
+</svg>
